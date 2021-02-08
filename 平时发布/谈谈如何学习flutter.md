@@ -48,9 +48,9 @@
 
 #### Bonus: Move Bottom Panel to the side.
 
-![img](https://blog.maskys.com/content/images/2019/02/example2-1.png)
+<img src="https://luckly007.oss-cn-beijing.aliyuncs.com/images/20210208103518.png" alt="img" style="zoom:33%;" />
 
-![img](https://blog.maskys.com/content/images/2019/02/example.png)
+<img src="https://luckly007.oss-cn-beijing.aliyuncs.com/images/20210208103525.png" alt="img" style="zoom:33%;" />
 
 Right looks infinitely better.
 
@@ -208,7 +208,7 @@ class _MovieDetailState extends State<MovieDetail> {
 
 Flutter单节点布局控件功能分类：
 
-<img src="https://luckly007.oss-cn-beijing.aliyuncs.com/images/20210208090758.webp" alt="Flutter单节点布局控件功能分类" style="zoom:50%;" />
+<img src="https://luckly007.oss-cn-beijing.aliyuncs.com/images/20210208104449.jpg" alt="Flutter单节点布局控件功能分类" style="zoom:50%;" />
 
 对于这些，一定要会理解，会用，当然，前期的使用还是比较简单的。控件虽然这么多，但是大部分不会挨个去尝试。对于大部分人而言，都是佛系的用法，一个控件能够使用，就一直用到死。在布局上，大方向还是不停的`拆`，把一张设计图，拆成一棵树，每个节点根据需要，选择合适的控件，然后从根部开始不停嵌套，布局就完成了。到了后期，就不仅仅是页面的布局了，而在于对**控件的选择**
 
@@ -300,7 +300,7 @@ Flutter单节点布局控件功能分类：
 
 后期我会结合我的学习，工作出一个系列，希望大家继续关注
 
-我的系列内容主要包括
+## 我的系列内容主要包括
 
 1.各个组建的用法，走一步，看一步，毕竟组件挺多的
 
@@ -311,3 +311,6 @@ Flutter单节点布局控件功能分类：
 4.遇到的一些报错，以及解决方案
 
 如果大家还有什么想看的，欢迎在评论区留言，就让我们一起利他共享，求实精进。
+
+明天会出 一个提纲，大家的喜欢和点赞就是我最大的鼓励哦。
+
