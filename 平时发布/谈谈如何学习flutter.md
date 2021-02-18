@@ -37,12 +37,8 @@
 
 我用 VScode，毕竟轻量化，这儿有几个插件值得推荐
 
-1. flutter
-2. dart
-3. Bracket Pair Colorizer 2
-4. Material Icon Theme
-5. Pubspec Assist
-6. Better Comments
+
+
 7. [Gitlens](https://gitlens.amod.io/#)
 8. Bonus: Move Bottom Panel to the side
 

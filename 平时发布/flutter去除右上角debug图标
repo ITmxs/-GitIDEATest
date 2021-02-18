@@ -1,0 +1,20 @@
+在MaterialApp中加入
+
+```dart
+MaterialApp(
+            // home: Tabs(),
+            debugShowCheckedModeBanner: false, //去除右上角debug图标
+            initialRoute: '/',
+            onGenerateRoute: onGenerateRoute,
+            theme: ThemeData(
+                // primaryColor: Colors.yellow
+                primaryColor: Colors.white),
+          ),
+```
+
+
+
+```
+ debugShowCheckedModeBanner: false, //去除右上角debug图标
+```
+

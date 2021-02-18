@@ -25,3 +25,9 @@ http://www.clipconverter.cc/
 http://fetchvideo.com/
 
 https://en.savefrom.net/18/
+
+https://cloud.tencent.com/developer/article/1141990
+
+# 12 Best Online YouTube Downloader – Download HD Video Online
+
+https://www.gihosoft.com/hot-topics/free-youtube-downloader-online.html
