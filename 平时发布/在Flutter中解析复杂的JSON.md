@@ -6,7 +6,7 @@
 
 我不得不承认，在Flutter / Dart中使用JSON后，我错过了Android的***gson\*** 世界。当我开始在Flutter中使用API时，JSON解析确实使我非常费力。而且我敢肯定，这会让很多初学者感到困惑。
 
-我们将使用`dart:convert`此博客的内置库。这是最基本的解析方法，仅在从Flutter开始或正在构建小型项目时才建议使用。尽管如此，了解Flutter中JSON解析的基础还是很重要的。如果您擅长于此，或者需要处理较大的项目，请考虑使用[json_serializable](https://pub.dartlang.org/packages/json_serializable)等代码生成器库。如果可能，我将在以后的文章中找到它们。
+我们将使用`dart:convert`此博客的内置库。这是最基本的解析方法，仅在从Flutter开始或正在构建小型项目时才建议使用。尽管如此，了解Flutter中JSON解析的基础还是很重要的。如果您擅长于此，或者需要处理较大的项目，请考虑使用[json_serializable](https://pub.dartlang.org/packages/json_serializable)等代码生成器库。以及其他的方法，比如 JsontoDart如果可能，我将在以后的文章中找到它们。
 
 Fork this [sample project](https://github.com/PoojaB26/ParsingJSON-Flutter). 它包含您可以尝试的此博客的所有代码。
 

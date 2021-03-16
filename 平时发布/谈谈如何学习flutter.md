@@ -216,7 +216,7 @@ Flutter单节点布局控件功能分类：
 - 单列单行或者多列多行：Row、Column、Flow、Wrap、ListBody、Table；
 - 显示位置相关：Stack、IndexedStack、CustomMultiChildLayout。
 
-这几个空间还是应该学细一点，GridView、ListView、Row、Column、Stack，这几个控件基本上涵盖了大部分的布局了。所以更应该重点把握。
+这几个控件还是应该学细一点，GridView、ListView、Row、Column、Stack，这几个控件基本上涵盖了大部分的布局了。所以更应该重点把握。
 
 ## 性能优化
 
